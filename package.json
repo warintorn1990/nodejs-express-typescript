@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-express-typescript",
+  "version": "1.0.0",
+  "description": "nodejs-express-typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warintorn1990/nodejs-express-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/warintorn1990/nodejs-express-typescript/issues"
+  },
+  "homepage": "https://github.com/warintorn1990/nodejs-express-typescript#readme"
+}
